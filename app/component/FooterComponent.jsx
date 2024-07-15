@@ -5,13 +5,7 @@ import '../css/footer.css'
 const Footer =()=>{
     return(
         <footer>
-          <Image
-                width={400}
-                height={286}
-                alt='4hd Print Negative Logo' 
-                className='' 
-                src = '/images/logo-negativo-4hd-print.png'
-            />
+            <img src="https://4hdprint.com/images/Logo-negativo-4hd-print.png"/>
             <div className="col">
                 <ul>
                     <li>Copyright © 2024 4hd print</li>
